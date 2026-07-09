@@ -1,4 +1,5 @@
-matplotlib
+matplotlib.pyplot
 pandas
 scikit-learn
 streamlit
+sqlite3
