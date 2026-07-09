@@ -1,5 +1,7 @@
-matplotlib.pyplot
-pandas
-scikit-learn
 streamlit
-sqlite3
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+openpyxl
